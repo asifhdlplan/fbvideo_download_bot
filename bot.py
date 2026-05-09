@@ -11,7 +11,7 @@ from telegram.ext import (
     filters,
 )
 
-TOKEN = os.getenv("8702714095:AAErCPTbIaa8aeK3HbFPM9D_2W4763tWqJU")
+TOKEN = os.getenv("8702714095:AAFfgYyCplCoJseV1P_aYNBg2_eAgOsKSLU")
 
 DOWNLOAD_FOLDER = "downloads"
 os.makedirs(DOWNLOAD_FOLDER, exist_ok=True)
